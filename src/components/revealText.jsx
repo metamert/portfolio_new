@@ -1,6 +1,6 @@
 import React from "react";
 import { TimelineMax, Power3, Power0, Power2, Elastic } from "gsap";
-let arr=["react","web","node","sql","jwt","btc"]
+let arr=["react","web","node","sql","jwt","mobile"]
 
 export default function RevealText({currentState,customize}) {
   const [state, setState] = React.useState(0);

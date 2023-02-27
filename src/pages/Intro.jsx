@@ -76,7 +76,7 @@ const [timer,setTimer]=React.useState(false)
             <p class="-gray">
               Fullstack web developer,
               <br />
-              mobile developer and project Manager .
+              mobile developer and Javascript developer.
             </p>
           </div>
          <IconPad currentState={state}></IconPad>
@@ -86,6 +86,17 @@ const [timer,setTimer]=React.useState(false)
         </div>
         <h1 className="title " style={{marginTop:150}}>
         <span class="iuri">Co founder of</span> <a href="https://metaliga.io"> <span class="func">  metaliga.io</span> </a>
+          </h1>
+          
+            <h1 className="title " style={{marginTop:150}}>
+            <span class="iuri">Front end developer</span> <a href="https://hellonooli.com"> <span class="func">at  Nooli</span> </a>
+            <p class="-gray">
+             Dean Robertson Founder of Nooli. 
+              <br />
+              Retired partner from Deloitte.
+                  <br />
+   Hi friends, if you need a hard-working, coachable and friendly freelance React/web/app developer then please get in touch with Orkun. He's been instrumental in the progress we've made on Nooli in recent months, willing to put in the effort and long hours required for startups and always with a smile.
+            </p>
         </h1>
         </div>
        
