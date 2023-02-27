@@ -95,7 +95,7 @@ const [timer,setTimer]=React.useState(false)
               <br />
               Retired partner from Deloitte.
                   <br />
-   Hi friends, if you need a hard-working, coachable and friendly freelance React/web/app developer then please get in touch with Orkun. He's been instrumental in the progress we've made on Nooli in recent months, willing to put in the effort and long hours required for startups and always with a smile.
+   'Hi friends, if you need a hard-working, coachable and friendly freelance React/web/app developer then please get in touch with Orkun. He's been instrumental in the progress we've made on Nooli in recent months, willing to put in the effort and long hours required for startups and always with a smile.'
             </p>
         </h1>
         </div>
