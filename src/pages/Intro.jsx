@@ -89,7 +89,7 @@ const [timer,setTimer]=React.useState(false)
           </h1>
           
             <h1 className="title " style={{marginTop:150}}>
-            <span class="iuri">Front end developer</span> <a href="https://hellonooli.com"> <span class="func">at  Nooli</span> </a>
+            <span class="iuri">Front end developer at</span> <a href="https://hellonooli.com"> <span class="func">  Nooli</span> </a>
           </h1>
            <p class="-gray">
              Dean Robertson Founder of Nooli. 
