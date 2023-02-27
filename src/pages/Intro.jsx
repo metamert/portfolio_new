@@ -92,8 +92,10 @@ const [timer,setTimer]=React.useState(false)
             <span class="iuri">Front end developer at</span> <a href="https://hellonooli.com"> <span class="func">  Nooli</span> </a>
           </h1>
 
-              <p className="purple mtb1">   Dean Robertson Founder of Nooli.  <br />
-              Retired partner from Deloitte. </p>
+              <p className="purple mtb1">   Dean Robertson Founder of Nooli.
+            </p>
+               <p className="-gray">   
+              Retired Partner from Deloitte.</p>
           <p class="-gray  mtb1">
           
 '
