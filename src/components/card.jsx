@@ -15,7 +15,7 @@ export default function card({ data }) {
 
     <div className="pl1">
       <h1 class="mtb1">
-        <span class="iuri ">
+        <span class="iu ">
           {"<"}
           <span>
             {project.title}

@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import * as ScrollMagic from "scrollmagic";
 import About from "../src/pages/About";
@@ -156,4 +155,3 @@ export default class App extends React.Component {
   }
 }
 
-//<About viewport={this.state.viewport}></About>
